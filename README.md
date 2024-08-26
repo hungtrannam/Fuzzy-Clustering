@@ -89,14 +89,14 @@ Nếu bạn muốn đóng góp cho dự án này, vui lòng làm theo các bư�
 3. Thực hiện các thay đổi và kiểm tra chúng.
 4. Gửi một pull request mô tả các thay đổi và lý do bạn thực hiện chúng.
 
-## Vấn Đề
+## issue
 
 Nếu bạn gặp bất kỳ vấn đề nào trong quá trình sử dụng hoặc có bất kỳ câu hỏi nào về mã nguồn, vui lòng kiểm tra phần [Issues](https://github.com/hungtrannam/Fuzzy-Clustering/issues) trên GitHub hoặc mở một issue mới để báo cáo vấn đề.
 
-## Giấy Phép
+## LICENSE
 
 Dự án này được cấp phép theo Giấy phép MIT. Xem tệp [LICENSE](LICENSE) để biết thêm chi tiết.
 
 ## Liên Hệ
 
-Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, vui lòng liên hệ với tôi qua email: [namhung34.info@gmail.com](mailto:namhung34.info@gmail.com).
+Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, vui lòng liên hệ qua email: [namhung34.info@gmail.com](mailto:namhung34.info@gmail.com).
