@@ -92,6 +92,7 @@ Nếu bạn muốn đóng góp cho dự án này, vui lòng làm theo các bư�
 ## issue
 
 Để biết thêm thông tin về thuật toán, vui lòng truy cập tài liệu đầy đủ [doc](https://github.com/hungtrannam/Fuzzy-Clustering/blob/main/FCM_turtorial.pdf)
+
 Nếu bạn gặp bất kỳ vấn đề nào trong quá trình sử dụng hoặc có bất kỳ câu hỏi nào về mã nguồn, vui lòng kiểm tra phần [Issues](https://github.com/hungtrannam/Fuzzy-Clustering/issues) trên GitHub hoặc mở một issue mới để báo cáo vấn đề.
 
 
