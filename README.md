@@ -21,8 +21,8 @@ Mã này có mục đích
 - [Cài Đặt](#cài-đặt)
 - [Câu Hỏi Thường Gặp](#câu-hỏi-thường-gặp)
 - [Đóng Góp](#đóng-góp)
-- [Vấn Đề](#vấn-đề)
-- [Giấy Phép](#giấy-phép)
+- [issue](#issue)
+- [LICENSE](#LICENSE)
 - [Liên Hệ](#liên-hệ)
 
 ## Mô Tả Mã
