@@ -63,8 +63,22 @@ A2: Có thể, nhưng bạn cần điều chỉnh các tham số và kiểm tra 
 **Q3: Mã này có thể chạy trên GNU Octave không?**  
 A3: Mã có thể chạy trong GNU Octave, nhưng một số tính năng vẽ đồ thị có thể không hoạt động đúng. Nếu bạn cần vẽ đồ thị, khuyến nghị sử dụng MATLAB để đảm bảo tất cả các tính năng hoạt động chính xác.
 
-**Q4: Làm thế nào để thay đổi số lượng cụm trong phân cụm?**  
-A4: Thay đổi giá trị của biến `c` trong mã nguồn để thay đổi số lượng cụm. 
+**Q4: Tôi có thể sử dụng mã này cho các loại dữ liệu khác ngoài dữ liệu 2D không?**  
+A4: Thuật toán Fuzzy C-Means có thể được áp dụng cho dữ liệu có nhiều chiều hơn, nhưng bạn cần điều chỉnh cách trực quan hóa dữ liệu để phù hợp với các không gian nhiều chiều. Các bước tính toán chính vẫn giống nhau.
+
+
+**Q5: Làm thế nào để thay đổi số lượng cụm trong phân cụm?**  
+A5: Thay đổi giá trị của biến `c` trong mã nguồn để thay đổi số lượng cụm. 
+
+**Q6: Làm thế nào để điều chỉnh tham số `m` trong thuật toán?**  
+A6: Thay đổi giá trị của biến `m` trong mã nguồn để điều chỉnh hệ số điều chỉnh trong thuật toán Fuzzy C-Means. Lưu ý rằng giá trị của `m` phải lớn hơn 1 để đảm bảo tính chất mờ của thuật toán.
+
+**Q7: Làm thế nào để thay đổi ngưỡng hội tụ `epsilon`?**  
+A7: Thay đổi giá trị của biến `epsilon` trong mã nguồn để điều chỉnh ngưỡng hội tụ của thuật toán. Ngưỡng hội tụ xác định khi nào thuật toán nên dừng lại dựa trên sự thay đổi của trung tâm cụm.
+
+**Q8: Làm thế nào để kiểm soát số lượng vòng lặp của thuật toán?**  
+A8: Thay đổi giá trị của biến `max_iter` trong mã nguồn để điều chỉnh số vòng lặp tối đa. Điều này ảnh hưởng đến số lần thuật toán lặp lại trước khi dừng lại hoặc hội tụ.
+
 
 ## Đóng Góp
 
