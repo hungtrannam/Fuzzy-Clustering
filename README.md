@@ -7,6 +7,12 @@
 
 Dự án này cung cấp một triển khai thuật toán phân cụm Fuzzy C-Means (FCM) bằng MATLAB. Thuật toán FCM phân chia một tập hợp các điểm dữ liệu thành `c` cụm, trong đó mỗi điểm dữ liệu có mức độ thuộc về mỗi cụm. Mã nguồn này thực hiện phân cụm trên một tập dữ liệu nhỏ và trực quan hóa kết quả để giúp bạn hiểu rõ hơn về cách thuật toán hoạt động.
 
+Mã này có mục đích
+- Cung cấp một ví dụ thực tiễn về cách triển khai thuật toán phân cụm Fuzzy C-Means bằng MATLAB.
+- Trực quan hóa quá trình phân cụm và kết quả cuối cùng.
+- Cung cấp nền tảng cho các nghiên cứu và ứng dụng phân cụm dữ liệu mờ trong MATLAB.
+
+
 ## Mục Lục
 
 - [Giới Thiệu](#giới-thiệu)
